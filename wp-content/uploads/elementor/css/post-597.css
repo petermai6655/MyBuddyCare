@@ -1,0 +1,17 @@
+.elementor-597 .elementor-element.elementor-element-3d7d45a > .elementor-container {max-width: 650px;}
+.elementor-597 .elementor-element.elementor-element-3d7d45a:not(.elementor-motion-effects-element-type-background), .elementor-597 .elementor-element.elementor-element-3d7d45a > .elementor-motion-effects-container > .elementor-motion-effects-layer {background-color: #f5f5f5;}
+.elementor-597 .elementor-element.elementor-element-3d7d45a {transition: background .3s,border .3s,border-radius .3s,box-shadow .3s;padding: 15px 0px 15px 0px;}
+.elementor-597 .elementor-element.elementor-element-3d7d45a > .elementor-background-overlay {transition: background .3s,border-radius .3s,opacity .3s;}
+.elementor-597 .elementor-element.elementor-element-372f3c4 .elementor-icon-wrapper {text-align: center;}
+.elementor-597 .elementor-element.elementor-element-372f3c4.elementor-view-stacked .elementor-icon {background-color: rgba(255,90,1,.53);}
+.elementor-597 .elementor-element.elementor-element-372f3c4.elementor-view-framed .elementor-icon, .elementor-597 .elementor-element.elementor-element-372f3c4.elementor-view-default .elementor-icon {color: rgba(255,90,1,.53);border-color: rgba(255,90,1,.53);}
+.elementor-597 .elementor-element.elementor-element-372f3c4.elementor-view-framed .elementor-icon, .elementor-597 .elementor-element.elementor-element-372f3c4.elementor-view-default .elementor-icon svg {fill: rgba(255,90,1,.53);}
+.elementor-597 .elementor-element.elementor-element-3d7c9fc {text-align: center;}
+.elementor-597 .elementor-element.elementor-element-3d7c9fc > .elementor-widget-container {margin: -30px 0px 0px 0px;}
+.elementor-597 .elementor-element.elementor-element-b7dd96d {--divider-border-style: solid;--divider-color: #000;--divider-border-width: 1px;}
+.elementor-597 .elementor-element.elementor-element-b7dd96d .elementor-divider-separator {width: 300px;margin: 0 auto;margin-center: 0;}
+.elementor-597 .elementor-element.elementor-element-b7dd96d .elementor-divider {text-align: center;padding-top: 5px;padding-bottom: 5px;}
+.elementor-597 .elementor-element.elementor-element-b7dd96d > .elementor-widget-container {margin: -25px 0px 0px 0px;}
+@media (max-width:1024px) {.elementor-597 .elementor-element.elementor-element-3d7d45a {padding: 60px 60px 60px 60px;}}
+@media (max-width:767px) {.elementor-597 .elementor-element.elementor-element-3d7d45a {padding: 50px 30px 50px 30px;}
+	.elementor-597 .elementor-element.elementor-element-b7dd96d .elementor-divider-separator {width: 100%;}}
